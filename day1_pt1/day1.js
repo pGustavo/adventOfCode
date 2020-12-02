@@ -1,5 +1,5 @@
 const fs = require("fs");
-const text = fs.readFileSync("day1/data.txt").toString('utf-8');
+const text = fs.readFileSync("day1_pt1/data.txt").toString('utf-8');
 const textByLine = text.split("\n");
 const arrayNumber =  textByLine.map(s => +s);
 

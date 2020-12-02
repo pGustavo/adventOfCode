@@ -10,9 +10,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -25,10 +25,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day1 pt2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gusta\WebstormProjects\adventOfCode\day1 pt2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gusta\WebstormProjects\adventOfCode\day1" />
     </key>
@@ -41,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606930820520</updated>
-      <workItem from="1606930821601" duration="9094000" />
+      <workItem from="1606930821601" duration="10462000" />
     </task>
     <servers />
   </component>
