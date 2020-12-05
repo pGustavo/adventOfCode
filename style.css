@@ -18,7 +18,13 @@ body {
     display: flex;
     justify-content: space-evenly;
 }
-#day1 > div, #day2 > div {
+#day3 {
+    border: 8px solid violet;
+    width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#day1 > div, #day2 > div, #day3 > div {
     display: flex;
     flex-direction: column;
     width: 350px;
@@ -29,6 +35,9 @@ body {
 }
 #day2 > div:first-child {
     border-right: 2px solid forestgreen;
+}
+#day3 > div:first-child {
+    border-right: 2px solid violet;
 }
 .result {
     opacity: 0;
